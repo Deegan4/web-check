@@ -7152,9 +7152,9 @@ svelte@^4.2.17:
     periscopic "^3.1.0"
 
 systeminformation@^5.7:
-  version "5.22.8"
-  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.22.8.tgz#403126772defa1d2a2e4cf039e9f6d57d3f1f3ba"
-  integrity sha512-F1iWQ+PSfOzvLMGh2UXASaWLDq5o+1h1db13Kddl6ojcQ47rsJhpMtRrmBXfTA5QJgutC4KV67YRmXLuroIxrA==
+  version "5.33.13"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.33.13.tgz#6b5e8d2f3203e1e7bb5e4bb0e897c496179fc60e"
+  integrity sha512-GtyakkchTQKymM1WeAB652zi3rM1q00RKdc+jZe9KGstuc/mWUwAnQGN/RE5gVYvHIR8xYOUIUD9irVKDtA0wA==
 
 tar-fs@2.1.1, tar-fs@^2.1.1:
   version "2.1.1"
